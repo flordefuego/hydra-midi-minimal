@@ -1,5 +1,5 @@
 //from https://github.com/ojack/hydra-standalone/blob/master/docs/midi.md
-
+console.log('hydra midi :)')
 // register WebMIDI
 navigator.requestMIDIAccess()
     .then(onMIDISuccess, onMIDIFailure);
