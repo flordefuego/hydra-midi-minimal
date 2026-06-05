@@ -1,6 +1,9 @@
 # hydra-midi-minimal
 extension for using webmidi with hydra
 
+<img width="2537" height="1221" alt="image" src="https://github.com/user-attachments/assets/3a4093c9-fdb1-4d80-8240-9462b95122b0" />
+
+
 from:
 
 [https://github.com/ojack/hydra-standalone/blob/master/docs/midi.md](https://github.com/ojack/hydra-standalone/blob/master/docs/midi.md)
